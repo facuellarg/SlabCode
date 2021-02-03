@@ -1,0 +1,18 @@
+#DATABASE
+DB_USERNAME=databaseUserName
+DB_PASSWORD=databasePassword
+DB_DATABASE="databaseName"
+DB_HOST=databaseHost
+
+#DEBUG
+
+DEBUG = false
+
+#JWT
+
+JWT_SECRET = super_secret
+
+
+#MAILER
+USERNAME = Gmail user
+PASSWORD = gmailPassword
